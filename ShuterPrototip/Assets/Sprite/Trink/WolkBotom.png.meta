@@ -1,0 +1,467 @@
+fileFormatVersion: 2
+guid: 472b09902ad1a864e840c26fc4f38ac4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -38970421900032850
+    second: WolkBotom_0
+  - first:
+      213: 4269594779144887444
+    second: WolkBotom_1
+  - first:
+      213: 5247499342608883767
+    second: WolkBotom_2
+  - first:
+      213: -1275336450495666969
+    second: WolkBotom_3
+  - first:
+      213: 8885062619811938724
+    second: WolkBotom_4
+  - first:
+      213: 6562392831063816637
+    second: WolkBotom_5
+  - first:
+      213: -3065992739101143931
+    second: WolkBotom_6
+  - first:
+      213: 5599535917494510395
+    second: WolkBotom_7
+  - first:
+      213: -7232271259173678124
+    second: WolkBotom_8
+  - first:
+      213: 6794508349910922120
+    second: WolkBotom_9
+  - first:
+      213: 6344665837449068785
+    second: WolkBotom_10
+  - first:
+      213: 2259852795607348334
+    second: WolkBotom_11
+  - first:
+      213: -1801094328008103621
+    second: WolkBotom_12
+  - first:
+      213: -5543644195683972652
+    second: WolkBotom_13
+  - first:
+      213: 6346291687045882747
+    second: WolkBotom_14
+  - first:
+      213: 3420655558941228947
+    second: WolkBotom_15
+  - first:
+      213: -1775836713916286073
+    second: WolkBotom_16
+  - first:
+      213: -6107239098168384721
+    second: WolkBotom_17
+  - first:
+      213: 8361037454749338078
+    second: WolkBotom_18
+  - first:
+      213: -4973674962468544065
+    second: WolkBotom_19
+  - first:
+      213: -2134424846529468541
+    second: WolkBotom_20
+  - first:
+      213: -7803546770086130680
+    second: WolkBotom_21
+  - first:
+      213: -6841355784819117853
+    second: WolkBotom_22
+  - first:
+      213: -42223114745782575
+    second: WolkBotom_23
+  - first:
+      213: -5779382846588934345
+    second: WolkBotom_24
+  - first:
+      213: 2841944318910612449
+    second: WolkBotom_25
+  - first:
+      213: 3959857692668945821
+    second: WolkBotom_26
+  - first:
+      213: 889117723405839055
+    second: WolkBotom_27
+  - first:
+      213: -6706859285718394149
+    second: WolkBotom_28
+  - first:
+      213: -6935556315307034592
+    second: WolkBotom_29
+  - first:
+      213: -86348756195362171
+    second: WolkBotom_30
+  - first:
+      213: 5202016326349655678
+    second: WolkBotom_31
+  - first:
+      213: -3759335035117654936
+    second: WolkBotom_32
+  - first:
+      213: -3363281775831387735
+    second: WolkBotom_33
+  - first:
+      213: -3880758123609977998
+    second: WolkBotom_34
+  - first:
+      213: 440021075812415465
+    second: WolkBotom_35
+  - first:
+      213: 4697197900601981551
+    second: WolkBotom_36
+  - first:
+      213: -1833144266843408928
+    second: WolkBotom_37
+  - first:
+      213: -5134012785526972081
+    second: WolkBotom_38
+  - first:
+      213: 5220655677075345545
+    second: WolkBotom_39
+  - first:
+      213: -6593645578070625859
+    second: WolkBotom_40
+  - first:
+      213: 1722291264370816497
+    second: WolkBotom_41
+  - first:
+      213: -2008739875529980883
+    second: WolkBotom_42
+  - first:
+      213: -8465604286599556902
+    second: WolkBotom_43
+  - first:
+      213: 4364219762713301490
+    second: WolkBotom_44
+  - first:
+      213: 9040385058218733265
+    second: WolkBotom_45
+  - first:
+      213: 534081915035628835
+    second: WolkBotom_46
+  - first:
+      213: -8050298928271580139
+    second: WolkBotom_47
+  - first:
+      213: 8176483329921327379
+    second: WolkBotom_48
+  - first:
+      213: 8937180746298815015
+    second: WolkBotom_49
+  - first:
+      213: 1663558855448922787
+    second: WolkBotom_50
+  - first:
+      213: -1437971585409219599
+    second: WolkBotom_51
+  - first:
+      213: -9206548601020976648
+    second: WolkBotom_52
+  - first:
+      213: 6068433984827375886
+    second: WolkBotom_53
+  - first:
+      213: 29494650823846009
+    second: WolkBotom_54
+  - first:
+      213: -1768970960533524369
+    second: WolkBotom_55
+  - first:
+      213: 7593968914008550130
+    second: WolkBotom_56
+  - first:
+      213: 785467735775935597
+    second: WolkBotom_57
+  - first:
+      213: 8637789231429843134
+    second: WolkBotom_58
+  - first:
+      213: 909109207583685472
+    second: WolkBotom_59
+  - first:
+      213: -6586768587837871764
+    second: WolkBotom_60
+  - first:
+      213: -2841715870894939747
+    second: WolkBotom_0
+  - first:
+      213: -2113076758792227147
+    second: WolkBotom_1
+  - first:
+      213: -2957098930648774876
+    second: WolkBotom_2
+  - first:
+      213: -5142849606081927912
+    second: WolkBotom_3
+  - first:
+      213: 8984223329556685670
+    second: WolkBotom_4
+  - first:
+      213: -3238651417930889957
+    second: WolkBotom_5
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WolkBotom_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 104
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91a7b2b8723098d0800000000000000
+      internalID: -2841715870894939747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolkBotom_1
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 104
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b63e0922e7dca2e0800000000000000
+      internalID: -2113076758792227147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolkBotom_2
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 104
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4270ef0a03646f6d0800000000000000
+      internalID: -2957098930648774876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolkBotom_3
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 0
+        width: 104
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815aa30088de0a8b0800000000000000
+      internalID: -5142849606081927912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolkBotom_4
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 104
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663e00d848f5eac70800000000000000
+      internalID: 8984223329556685670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolkBotom_5
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 0
+        width: 104
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b150aeac1bffd03d0800000000000000
+      internalID: -3238651417930889957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
